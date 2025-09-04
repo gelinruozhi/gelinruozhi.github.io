@@ -7,30 +7,47 @@
         "url": "http://music.163.com/song/media/outer/url?id=475479888.mp3"
       },
       {
-        "title": "句号(点击框外收起)", 
-        "artist": "邓紫棋",
-        "cover": "https://gelinruozhi.github.io/images/C.jpg",
-        "url": "https://gelinruozhi.github.io/music/jh.mp3"
-      },
-      {
         "title": "有点甜(点击框外收起)", 
         "artist": "汪苏泷/BY2",
         "cover": "https://gelinruozhi.github.io/images/C.jpg",
-        "url": "https://gelinruozhi.github.io/music/ydt.mp3"
+        "url": "http://music.163.com/song/media/outer/url?id=165340.mp3"
       },
       {
         "title": "亲爱的旅人啊(点击框外收起)", 
         "artist": "周深",
         "cover": "https://gelinruozhi.github.io/images/C.jpg",
-        "url": "https://gelinruozhi.github.io/zs.mp3"
+        "url": "http://music.163.com/song/media/outer/url?id=1371939273.mp3"
       },
       {
         "title": "成都(点击框外收起)", 
         "artist": "赵雷",
         "cover": "https://gelinruozhi.github.io/images/C.jpg",
-        "url": "https://gelinruozhi.github.io/cd.mp3"
+        "url": "http://music.163.com/song/media/outer/url?id=447926071.mp3"
+      },
+      {
+        "title": "起飞了(点击框外收起)", 
+        "artist": "卖辣椒也用券",
+        "cover": "https://gelinruozhi.github.io/images/C.jpg",
+        "url": "http://music.163.com/song/media/outer/url?id=1330348068.mp3"
+      },
+      {
+        "title": "只要平凡(点击框外收起)", 
+        "artist": "张杰/张碧晨",
+        "cover": "https://gelinruozhi.github.io/images/C.jpg",
+        "url": "http://music.163.com/song/media/outer/url?id=574919767.mp3"
+      },
+      {
+        "title": "Lemon Tree(点击框外收起)", 
+        "artist": "Fool’s Garden",
+        "cover": "https://gelinruozhi.github.io/images/C.jpg",
+        "url": "http://music.163.com/song/media/outer/url?id=26527878.mp3"
+      },
+      {
+        "title": "不再联系(点击框外收起)", 
+        "artist": "夏天Alex",
+        "cover": "https://gelinruozhi.github.io/images/C.jpg",
+        "url": "http://music.163.com/song/media/outer/url?id=175072.mp3"
       }
-    
-
     ]
+
   }
