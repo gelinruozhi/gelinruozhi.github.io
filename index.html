@@ -11,6 +11,15 @@
 	<link rel="apple-touch-icon-precomposed" href="images/avatar.bab2b7d4.jpeg">
 	<link rel="stylesheet" type="text/css" href="css/h.9c69ed6c.css">
 	<link rel="stylesheet" type="text/css" href="css/nekotora.99cf6f8c.css">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#000000">
+    <!-- 引入播放器样式文件 -->
+    <link rel="stylesheet" href="./D-music/dynamic-island-player.css">
+
 	<!-- <audio src="music/youmeidexiaodiao.mp3"  autoplay="autoplay" controls="controls" loop="loop"></audio>-->
 	
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137340638-1"></script>
@@ -28,6 +37,26 @@
 		<a href="http://nothing.bycon.top/" target="_blank" class="active">博客(待建)</a> <a class="clip"></a>
 	</nav>
 
+	<!--将下面这段代码加入body标签内-->
+ 
+    <!-- 引入播放器核心脚本 -->
+    <script src="./D-music/dynamic-island-player.js"></script>
+	  <script>
+    // 初始化播放器实例
+    const player = new DynamicIslandPlayer();
+    // 加载播放列表
+    // 加载播放列表数据
+    player.loadPlaylist('./playlistData.json');
+    // 自定义下一首功能
+    // 自定义下一首按钮点击事件
+    player.onNext = () => {
+      console.log('下一首');
+    }
+  	</script>
+
+	<!--将上面这段代码加入body标签内-->
+
+	
 	<body onContextMenu="alert('别偷看源代码呦（^∀^）'); return false"
 		NOOP="if (window.event != null && window.event.button == 2) alert ('Thanks...');">
 		<div class="background">
