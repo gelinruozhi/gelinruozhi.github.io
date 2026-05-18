@@ -32,5 +32,5 @@
 
 <div align="center">
   <p><em>“十年前我们仰望星空，十年后我们将俯视大地，未来的天空，必将为我们留下一片灿烂的曙光！”</em></p>
-  <a href="https://gelinruozhi.github.io/"><b>👉 了解更多关于 谢东辰 (Nothing) 的故事 👈</b></a>
+  <a href="https://gelinruozhi.github.io/"><b>👉 了解我 👈</b></a>
 </div>
